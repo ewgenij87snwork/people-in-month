@@ -1,4 +1,6 @@
-ewgenij87snwork@gmail.com
+Author: Евгений Сорокин (ewgenij87snwork@gmail.com)
+
+Deploy: https://people-in-month.herokuapp.com/
 
 Задача:
 GET: `https://yalantis-react-school-api.yalantis.com/api/task0/users` повертає масив юзерів. У кожного юзера є наступні поля: id, firstName, lastName, dob (дата народження).
